@@ -8,8 +8,8 @@ This repository contains the complete R code, network data, and reproducibility 
 This study explores the core bacteriome of the tick *Hyalomma lusitanicum*, uncovering a stark sexual dimorphism and geographical structuring through network analysis. By decoupling numerical dominance from topological influence using $Z_i$ and $P_i$ coordinates, we model the structural vulnerability and resilience of tick microbiomes.
 
 ## 📂 Repository Structure
-* `/data`: Contains processed R objects (`ps_limpio`, `ps_rel`) and network adjacency matrices.
-* `/scripts`: R scripts for data processing, PERMANOVA models, $Z_i$-$P_i$ calculations, network degradation simulations, and figure generation.
+* `/data`: Contains processed R objects (`ps_limpio`) and network adjacency matrices.
+* `/scripts`: R scripts for data processing, PERMANOVA models, Zi-Pi calculations, network degradation simulations, and figure generation.
 * `/figures`: High-resolution composite figures used in the manuscript.
 
 ## 🛠️ Prerequisites & Installation
