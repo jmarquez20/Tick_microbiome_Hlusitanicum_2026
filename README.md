@@ -7,6 +7,26 @@ This repository contains the complete R code, network data, and reproducibility 
 ## 📌 Project Overview
 This study explores the core bacteriome of the tick *Hyalomma lusitanicum*, uncovering a stark sexual dimorphism and geographical structuring through network analysis. By decoupling numerical dominance from topological influence using $Z_i$ and $P_i$ coordinates, we model the structural vulnerability and resilience of tick microbiomes.
 
+#Associated Publication
+If you use the scripts, workflows, or datasets from this repository, please cite our published paper:
+
+Decoupling Abundance from Centrality: Sexual Dimorphism and Geographical Structuring in the Hyalomma lusitanicum Microbiome Network
+F.J. Márquez, Y. Perez-Llano, S.A., M. De Rojas, A. López-Orta, R. Tarifa & A. Caruz.
+Pathogens 2026 2;15(8):838. 
+doi: 10.3390/pathogens15080838.
+PMID: 42654775
+PMCID: PMC13516054
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13516054/
+
+
+# Data Availability
+All raw sequence reads and associated environmental metadata generated in this study have been deposited in the NCBI Short Read Archive (SRA) / BioProject database.
+
+BioProject Accession: PRJNA1544814
+Submission ID: SUB16585022
+Direct Repository Link: https://www.ncbi.nlm.nih.gov/bioproject/16585022
+
 ## 📂 Repository Structure
 * `/data`: Contains processed R objects (`ps_limpio`) and network adjacency matrices.
 * `/scripts`: R scripts for data processing, PERMANOVA models, Zi-Pi calculations, network degradation simulations, and figure generation.
