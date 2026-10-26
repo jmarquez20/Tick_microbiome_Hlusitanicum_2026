@@ -23,9 +23,9 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC13516054/
 # Data Availability
 All raw sequence reads and associated environmental metadata generated in this study have been deposited in the NCBI Short Read Archive (SRA) / BioProject database.
 
-BioProject Accession: PRJNA1544814
-Submission ID: SUB16585022
-Direct Repository Link: https://www.ncbi.nlm.nih.gov/bioproject/16585022
+SubmissionID:       SUB16585022
+BioProject ID:      PRJNA1550761
+Direct Repository Link: http://www.ncbi.nlm.nih.gov/bioproject/1550761
 
 ## 📂 Repository Structure
 * `/data`: Contains processed R objects (`ps_limpio`) and network adjacency matrices.
