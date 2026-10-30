@@ -8,8 +8,6 @@ This repository contains the complete R code, network data, and reproducibility 
 This study explores the core bacteriome of the tick *Hyalomma lusitanicum*, uncovering a stark sexual dimorphism and geographical structuring through network analysis. By decoupling numerical dominance from topological influence using $Z_i$ and $P_i$ coordinates, we model the structural vulnerability and resilience of tick microbiomes.
 
 #Associated Publication
-If you use the scripts, workflows, or datasets from this repository, please cite our published paper:
-
 Decoupling Abundance from Centrality: Sexual Dimorphism and Geographical Structuring in the Hyalomma lusitanicum Microbiome Network
 F.J. Márquez, Y. Perez-Llano, S.A., M. De Rojas, A. López-Orta, R. Tarifa & A. Caruz.
 Pathogens 2026 2;15(8):838. 
